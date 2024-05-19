@@ -7,7 +7,7 @@ pip install -r requirements.txt
 # Usage
 
 ```bash
-freeapi dev main.py
+fastapi dev main.py
 ```
 
 # Request Flow
